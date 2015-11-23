@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="493856" started-at="2015-11-23T12:16:15Z" finished-at="2015-11-23T12:24:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="493856" started-at="2015-11-23T12:16:15Z" finished-at="2015-11-23T12:24:29Z">
+      <class name="com.makeInIndia.Test.SanityTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.makeInIndia.Test.SanityTest@61ee30d2]" name="setUp" is-config="true" duration-ms="9027" started-at="2015-11-23T17:46:06Z" finished-at="2015-11-23T17:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.makeInIndia.Test.SanityTest@61ee30d2]" name="HomePage" duration-ms="493846" started-at="2015-11-23T17:46:15Z" finished-at="2015-11-23T17:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.makeInIndia.Test.SanityTest@61ee30d2]" name="tearDown" is-config="true" duration-ms="1741" started-at="2015-11-23T17:54:29Z" finished-at="2015-11-23T17:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.makeInIndia.Test.SanityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

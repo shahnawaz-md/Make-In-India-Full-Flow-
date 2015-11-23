@@ -1,0 +1,137 @@
+2015-11-23 17:46:07,253 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:46:07,254 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:46:07,254 INFO  [Log]                                sTestCaseName                                        
+2015-11-23 17:46:07,254 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:46:07,254 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:46:09,013 INFO  [Log] New driver instantiated 
+2015-11-23 17:46:15,787 INFO  [Log] Opening the URL 
+2015-11-23 17:46:16,064 INFO  [Log] Events Going to Performed on HomePage  
+2015-11-23 17:46:16,202 INFO  [Log] Scrolling down the page 
+2015-11-23 17:46:24,313 INFO  [Log] Clicking on Social Media Link 
+2015-11-23 17:46:28,404 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:46:28,422 INFO  [Log] Scrolling down the page 
+2015-11-23 17:46:33,486 INFO  [Log] Clicking on Make In India Week Link 
+2015-11-23 17:46:37,479 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:46:37,490 INFO  [Log] Scrolling down the page 
+2015-11-23 17:46:43,463 INFO  [Log] Clicking on Construction Link 
+2015-11-23 17:46:46,386 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:46:52,352 INFO  [Log] Clicking on Events Link 
+2015-11-23 17:46:56,299 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:47:02,209 INFO  [Log] Clicking on Electrical Machinery Link 
+2015-11-23 17:47:06,147 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:47:12,087 INFO  [Log] Clicking on Renewable Energy Link 
+2015-11-23 17:47:16,039 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:47:22,132 INFO  [Log] Clicking on National Manufacturing Link 
+2015-11-23 17:47:26,103 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:47:32,193 INFO  [Log] Clicking on EODB Link 
+2015-11-23 17:47:35,108 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:47:40,214 INFO  [Log] Clicking on Social Media Image Link 
+2015-11-23 17:47:40,214 INFO  [Log] Link opened in a new tab 
+2015-11-23 17:47:45,962 INFO  [Log] Closing the new tab 
+2015-11-23 17:47:51,183 INFO  [Log] Clicking on Make In India Week Image Link 
+2015-11-23 17:47:51,183 INFO  [Log] Link opened in a new tab 
+2015-11-23 17:47:56,261 INFO  [Log] Closing the new tab 
+2015-11-23 17:47:58,444 INFO  [Log] Clicking on Construction Image Link 
+2015-11-23 17:48:02,447 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:48:05,763 INFO  [Log] Clicking on Events Image Link 
+2015-11-23 17:48:09,755 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:48:12,992 INFO  [Log] Clicking on Electrical Machinery image Link 
+2015-11-23 17:48:16,970 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:48:19,742 INFO  [Log] Clicking on Renewable Energy Image Link 
+2015-11-23 17:48:22,663 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:48:25,542 INFO  [Log] Clicking on National Manufacturing Image Link 
+2015-11-23 17:48:29,526 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:48:32,465 INFO  [Log] Clicking on EODB Image Link 
+2015-11-23 17:48:36,415 INFO  [Log] Clicking on HomePage Link 
+2015-11-23 17:48:37,416 INFO  [Log] Events Going to Performed on Sector Page  
+2015-11-23 17:48:42,897 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:48:49,075 INFO  [Log] Clicking on Automobile link 
+2015-11-23 17:48:51,622 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:48:57,803 INFO  [Log] Clicking on Automobile Components link 
+2015-11-23 17:49:00,312 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:06,337 INFO  [Log] Clicking on Aviation link 
+2015-11-23 17:49:08,814 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:15,177 INFO  [Log] Clicking on Biotechnology link 
+2015-11-23 17:49:17,661 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:23,725 INFO  [Log] Clicking on Chemicals link 
+2015-11-23 17:49:26,291 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:32,406 INFO  [Log] Clicking on Construction link 
+2015-11-23 17:49:34,942 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:40,015 INFO  [Log] Clicking on Defence Manufacturing link 
+2015-11-23 17:49:42,667 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:48,803 INFO  [Log] Clicking on Electrical Machinery link 
+2015-11-23 17:49:51,362 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:49:57,775 INFO  [Log] Clicking on Electronic Systems link 
+2015-11-23 17:50:00,283 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:05,891 INFO  [Log] Clicking on Food Processing link 
+2015-11-23 17:50:08,389 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:13,954 INFO  [Log] Clicking on IT and BPM link 
+2015-11-23 17:50:16,488 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:22,548 INFO  [Log] Clicking on Leather link 
+2015-11-23 17:50:25,082 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:30,982 INFO  [Log] Clicking on Media and Entertainment link 
+2015-11-23 17:50:33,547 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:39,919 INFO  [Log] Clicking on Mining link 
+2015-11-23 17:50:42,744 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:48,947 INFO  [Log] Clicking on Oil and Gas link 
+2015-11-23 17:50:51,458 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:50:57,760 INFO  [Log] Clicking on Pharmaceuticals link 
+2015-11-23 17:51:00,346 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:06,786 INFO  [Log] Clicking on Ports and Shipping link 
+2015-11-23 17:51:09,298 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:15,367 INFO  [Log] Clicking on Railways link 
+2015-11-23 17:51:17,899 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:23,987 INFO  [Log] Clicking on Renewable Energy link 
+2015-11-23 17:51:26,472 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:32,371 INFO  [Log] Clicking on Roads and Highways link 
+2015-11-23 17:51:34,911 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:41,437 INFO  [Log] Clicking on Space link 
+2015-11-23 17:51:44,199 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:50,089 INFO  [Log] Clicking on Textiles and Garments link 
+2015-11-23 17:51:52,754 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:51:59,258 INFO  [Log] Clicking on Thermal Power link 
+2015-11-23 17:52:01,810 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:52:07,303 INFO  [Log] Clicking on Tourism and Hospitality link 
+2015-11-23 17:52:09,993 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:52:15,536 INFO  [Log] Clicking on Wellness link 
+2015-11-23 17:52:18,025 INFO  [Log] Clicking on SectorPage link 
+2015-11-23 17:52:19,027 INFO  [Log] Events Going to Performed on LiveProject Page  
+2015-11-23 17:52:26,608 INFO  [Log] Clicking on Live Project link 
+2015-11-23 17:52:31,701 INFO  [Log] Clicking on Summary Accordion  
+2015-11-23 17:52:31,729 INFO  [Log] Scrolling down the page 
+2015-11-23 17:52:41,817 INFO  [Log] Clicking on Delhi-Mumbai Industrial Corridor Accordion  
+2015-11-23 17:52:41,833 INFO  [Log] Scrolling down the page 
+2015-11-23 17:52:51,901 INFO  [Log] Clicking on Bengaluru-Mumbai Economic Corridor Accordion  
+2015-11-23 17:52:56,984 INFO  [Log] Clicking on Chennai-Bengaluru Industrial Corridor Accordion  
+2015-11-23 17:53:02,068 INFO  [Log] Clicking on Vizag-Chennai Industrial Corridor Accordion  
+2015-11-23 17:53:07,158 INFO  [Log] Clicking on Amritsar-Kolkata Industrial Corridor Accordion  
+2015-11-23 17:53:07,219 INFO  [Log] Clicking on Amritsar-Kolkata Industrial Corridor Accordion  
+2015-11-23 17:53:12,243 INFO  [Log] Scrolling Up the page 
+2015-11-23 17:53:18,245 INFO  [Log] Events Going to Performed on Policy Page  
+2015-11-23 17:53:23,876 INFO  [Log] Clicking on PoliciesPage link 
+2015-11-23 17:53:29,548 INFO  [Log] Clicking on New Initiative link 
+2015-11-23 17:53:32,042 INFO  [Log] Clicking on PoliciesPage link 
+2015-11-23 17:53:37,636 INFO  [Log] Clicking on Foreign Direct Investment link 
+2015-11-23 17:53:40,139 INFO  [Log] Clicking on PoliciesPage link 
+2015-11-23 17:53:46,250 INFO  [Log] Clicking on Intellectual Property Facts link 
+2015-11-23 17:53:48,315 INFO  [Log] Clicking on PoliciesPage link 
+2015-11-23 17:53:53,921 INFO  [Log] Clicking on National Manufacturing link 
+2015-11-23 17:53:56,513 INFO  [Log] Clicking on PoliciesPage link 
+2015-11-23 17:53:57,514 INFO  [Log] Events Going to Performed on EODB Page  
+2015-11-23 17:54:03,168 INFO  [Log] Clicking on EODB link 
+2015-11-23 17:54:08,878 INFO  [Log] Clicking on Central Government Initiatives link 
+2015-11-23 17:54:10,948 INFO  [Log] Clicking on Actions Completed Accordion 
+2015-11-23 17:54:10,967 INFO  [Log] Scrolling down the page 
+2015-11-23 17:54:13,055 INFO  [Log] Clicking on Measures Underway Accordion 
+2015-11-23 17:54:15,664 INFO  [Log] Clicking on EODB link 
+2015-11-23 17:54:22,043 INFO  [Log] Clicking on State Government Initiatives link 
+2015-11-23 17:54:24,109 INFO  [Log] Clicking on Actions Completed Accordion 
+2015-11-23 17:54:24,127 INFO  [Log] Scrolling down the page 
+2015-11-23 17:54:26,223 INFO  [Log] Clicking on Measures Underway Accordion 
+2015-11-23 17:54:28,839 INFO  [Log] Clicking on EODB link 
+2015-11-23 17:54:31,629 INFO  [Log] Closing the browser 
+2015-11-23 17:54:31,629 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:54:31,629 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:54:31,630 INFO  [Log] $$$$$$$$$$$$$$$$$$             E------N------D                $$$$$$$$$$$$$$$$$$$ 
+2015-11-23 17:54:31,630 INFO  [Log] **************************************************************************************** 
+2015-11-23 17:54:31,630 INFO  [Log] **************************************************************************************** 
